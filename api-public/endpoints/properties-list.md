@@ -47,6 +47,8 @@ application/json
             "promotion_reference": null,
             "mandate_start": null,
             "mandate_end": null,
+            "update_date_min": "2017-04-20",
+            "update_date_max": "2017-04-20"
             "lot": "",
             "parcel": "",
             "building": "",
